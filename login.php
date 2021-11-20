@@ -67,7 +67,7 @@
                                 header("Location: index.php");
 
                             } else {
-                                $password_err = "Incorrect password";
+                                $password_err = $hashed_password;
                             }
                         }
                     } else {
