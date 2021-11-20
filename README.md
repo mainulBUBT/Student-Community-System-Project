@@ -1,2 +1,2 @@
 # Student Community System Project
- 
+ This Project connects every school/college/university student with their community separately. One institution cannot access another institution's community page. Students can make a post, doing live chat with their institution's students also can sell or buy their books using a classified zone. One member can follow another and can chat with privately (updated version)
